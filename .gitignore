@@ -137,6 +137,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/logs
 
 # mypy
 .mypy_cache/
@@ -168,4 +169,5 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
 
